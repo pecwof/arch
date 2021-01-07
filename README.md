@@ -1,1 +1,5 @@
-#this is the third trying for me to using git 
+# This is a README.md for my repository of dwm and st
+**dwm**
+[dwm](https://suckless.org/dwm)
+
+
