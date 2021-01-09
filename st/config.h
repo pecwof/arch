@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *fonts[] = {
+  "SauceCodePro Nerd Font Mono:size=16",
   "Fira Code Retina:pixelsize=18:antialias=true:autohint=true"
 };
 static int fonts_current = 0;
